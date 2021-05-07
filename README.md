@@ -1,4 +1,4 @@
-# septal
+# septal_ellipsoids
 
 https://acycliq.github.io/septal_ellipsoids/
 
