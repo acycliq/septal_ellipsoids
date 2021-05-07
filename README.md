@@ -2,4 +2,4 @@
 
 https://acycliq.github.io/septal_ellipsoids/
 
-<img src="dashboard/data/heatmap.png" alt="heatmap" width="200" height="400"/>
+<img src="dashboard/data/heatmap.png" alt="heatmap" width="500" height="800"/>
